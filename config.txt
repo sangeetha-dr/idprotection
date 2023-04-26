@@ -1,0 +1,4 @@
+"AadClientId": "7cb40214-b41c-4d81-a243-b518358c63da",
+  "AadSecret": "TQs8Q~ZMNAt6KMjp1C2P1ND~Exq-dnWfALopacbl",
+  "AadTenantDomain": "AzSecTestLab.onmicrosoft.com",
+  "AadTenantId": "52604249-40de-4ee4-931d-cae8b5243177",
